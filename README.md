@@ -1,2 +1,2 @@
 # theopeneval
-An Open Standard for Agent Reliability Engineering
+An Open Standard for AI Reliability Engineering
